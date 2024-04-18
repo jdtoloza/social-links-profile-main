@@ -1,3 +1,24 @@
+# What I Learned
+
+Languages used: HTML, CSS
+Frameworks Used: Bootstrap v5
+
+Goal:
+I will use the CSS framework, Bootstrap v5, for at least 80% of the design
+
+Review:
+I feel a lot more comfortable with navigating the framework documents and getting a gist or feel of how to use a CSS framework. 
+
+Here are the main skills I learned:
+
+- download and hosting fonts
+- implementing bootstrap v5 link to header
+- grid rows and columns using bootstrap
+- margins, paddings, cards, img containers using bootstrap
+- using display flex using bootstrap
+- using inline styles with bootstrap to keep all code in 1 document. However, this goes against the seperation of concerns rule for clean code.
+
+
 # Frontend Mentor - Social links profile
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
