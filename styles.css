@@ -1,0 +1,45 @@
+:root {
+
+    /* Primary */
+    --green: hsl(75, 94%, 57%);
+
+    /* Neutral  */
+    --White: hsl(0, 0%, 100%);
+    --Grey: hsl(0, 0%, 20%);
+    --Dark-Grey: hsl(0, 0%, 12%);
+    --Off-Black: hsl(0, 0%, 8%);
+    font-size: 14px;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url("/assets.fonts/Inter-VariableFont_slnt,wght.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+section {
+    background: var(--Off-Black);
+    height: 100vh!important;
+    width: 100vw;
+}
+
+.btn {
+    border:none !important;
+    background: var(--Grey)!important;
+    
+}
+
+a {
+    font-weight: 600!important;
+    
+}
+
+a:hover {
+    background-color: var(--green)!important;
+    border: none;
+    color: var(--Grey)!important;
+}
